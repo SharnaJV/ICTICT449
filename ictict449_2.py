@@ -2,7 +2,7 @@
 x=17
 y=17
 if x > y:
- print("x is greater than y!")  
+ print("x is greater Matthew")
  
 elif x < y:
         print("x is not greater than y!") 
